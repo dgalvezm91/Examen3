@@ -1,0 +1,28 @@
+
+body, h1, h4, img, div, header, nav, a {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    width: 100%;
+}
+
+
+header {
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+nav {
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
